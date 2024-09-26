@@ -31,7 +31,7 @@ Esta API permite obtener información del clima para ciudades de origen y destin
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Isai-gomez/retoBK
    cd tu_repositorio
 
    ```
@@ -519,4 +519,3 @@ Ejemplo de Respuesta
 }
 }
 ]
-}
