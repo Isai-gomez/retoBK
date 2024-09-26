@@ -1,0 +1,16 @@
+[
+  {
+    "origin": "TLC",
+    "destination": "MTY",
+    "airline": "4O",
+    "flight_num": 104,
+    "origin_iata_code": "TLC",
+    "origin_name": "Licenciado Adolfo Lopez Mateos International Airport",
+    "origin_latitude": 19.3371,
+    "origin_longitude": -99.566,
+    "destination_iata_code": "MTY",
+    "destination_name": "General Mariano Escobedo International Airport",
+    "destination_latitude": 25.7785,
+    "destination_longitude": -100.107
+  }
+]
